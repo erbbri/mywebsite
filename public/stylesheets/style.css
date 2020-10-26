@@ -4,7 +4,8 @@ body{
   color: #6b4633
 }
 .menu-text{
-
+    font-family: "Baskerville Old Face";
+    color: white;
 }
 .navbar-custom {
   background-color: #253812;
@@ -14,4 +15,23 @@ body{
   color: #f8dfb8;
   font-family: "Baskerville Old Face";
   font-weight: bold;
+}
+ul{
+  text-align: left;
+}
+.menu-images{
+  width:  300px;
+  height: 200px;
+  object-fit: cover;
+}
+.column1 {
+  background-color: #ba621c;
+  border: white 1px solid;
+  color: white;
+  border: white 1px solid;
+}
+.column2 {
+  background-color: #6b4633;
+  color: white;
+  border: white 1px solid;
 }
