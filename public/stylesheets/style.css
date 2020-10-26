@@ -1,0 +1,17 @@
+body{
+  background-color: #f8dfb8;
+  text-align: center;
+  color: #6b4633
+}
+.menu-text{
+
+}
+.navbar-custom {
+  background-color: #253812;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: #f8dfb8;
+  font-family: "Baskerville Old Face";
+  font-weight: bold;
+}

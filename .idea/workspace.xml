@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b1f72a4-8893-4063-8480-cae824e627eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/restaurant/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/restaurant/confirmation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/restaurant/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/restaurant/locations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/restaurant/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/restaurant/orderNow.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jCdzLMzn98exQluWgPKNGfuTlO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.70" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b1f72a4-8893-4063-8480-cae824e627eb" name="Default Changelist" comment="" />
+      <created>1603312268860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603312268860</updated>
+      <workItem from="1603312269920" duration="6113000" />
+      <workItem from="1603527772719" duration="13932000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1461" height="269" key="GridCell.Tab.0.bottom" timestamp="1603665225721">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state width="1461" height="269" key="GridCell.Tab.0.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1603665225721" />
+    <state width="1461" height="269" key="GridCell.Tab.0.center" timestamp="1603665225721">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state width="1461" height="269" key="GridCell.Tab.0.center/0.0.1504.1003@0.0.1504.1003" timestamp="1603665225721" />
+    <state width="1461" height="269" key="GridCell.Tab.0.left" timestamp="1603665225720">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state width="1461" height="269" key="GridCell.Tab.0.left/0.0.1504.1003@0.0.1504.1003" timestamp="1603665225720" />
+    <state width="1461" height="269" key="GridCell.Tab.0.right" timestamp="1603665225721">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state width="1461" height="269" key="GridCell.Tab.0.right/0.0.1504.1003@0.0.1504.1003" timestamp="1603665225721" />
+  </component>
+</project>
